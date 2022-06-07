@@ -1,6 +1,6 @@
 # ⚛️ In1Solutions - Frontend Developer Test Task
 
-Create a simple app in the React framework containing the following routes:
+Create a simple app in the React or Angular framework containing the following routes:
  * `/` - Products List Page
  * `product/{id}` Product Detail Page
 
