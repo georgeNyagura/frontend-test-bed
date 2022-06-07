@@ -11,7 +11,7 @@ For a list of products/vouchers please select one the following properties:
 | Bushmills Inn       | https://www.bushmillsinn.com/       | https://shop.bookin1.com/api/property/16609/allvouchers |
 | Merchant Hotel      | https://www.themerchanthotel.com/   | https://shop.bookin1.com/api/property/7716/allvouchers  |
 | Mount Juliet Estate | https://www.mountjuliet.ie/         | https://shop.bookin1.com/api/property/474/allvouchers   |
-| TINTSWALO ATLANTIC  | https://www.tintswalo.com/atlantic/ | https://shop.bookin1.com/api/property/11128/allvouchers |
+| Tintswalo Atlantic  | https://www.tintswalo.com/atlantic/ | https://shop.bookin1.com/api/property/11128/allvouchers |
 
 # 👁️ Style Guide
 Adhere to [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) javascript and [naming conventions](https://github.com/kettanaito/naming-cheatsheet) to help with code readability.
