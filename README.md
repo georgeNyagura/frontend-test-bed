@@ -44,7 +44,7 @@ To speed up your development, you're allowed to use any component library you li
 
 # 🌐 Deployment
 
-Deploy and serve your applications and assets over a CDN. This is requirement so we can view your test immediately without having to clone the repo and build internally. Good options for that are:
+Deploy and serve your applications and assets over a CDN. This is required so we can view your test immediately without having to clone the repo and build internally. Good options for that are:
 
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
