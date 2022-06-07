@@ -20,7 +20,7 @@ Adhere to [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) j
 
 Keep components, functions, styles, state, etc. as close as possible to the component where it's being used. 
 
-Use the colourscheme of the property you've chosen above and adhere to their style and colours, substituing fonts for those publicly available in Google Fonts if needed.
+Use the colourscheme of the property you've chosen above and adhere to their style and colours, substituting fonts for those publicly available in Google Fonts if needed.
 
 To speed up your development, you're allowed to use any component library you like, or if you prefer to develop your own to keep it simple and fast. Here are some recommendations:
 
