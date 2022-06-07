@@ -16,7 +16,7 @@ For a list of products/vouchers please select one the following properties:
 # 👁️ Style Guide
 Adhere to [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) javascript and [naming conventions](https://github.com/kettanaito/naming-cheatsheet) to help with code readability.
 
-# Images
+# 🖼️ Images
 
 In the API url `voucherImageUrl` are served via [Imgix](https://docs.imgix.com/) which can be resized, cropped, coloured, etc in any way shape or form, see their (Rendering API)[https://docs.imgix.com/apis/rendering] or you can use the library if you wish. Otherwise, images loaded are full resolution which might slow the rendering of the page.
 
