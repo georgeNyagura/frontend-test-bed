@@ -1,0 +1,91 @@
+{
+  "vouchers": [
+    {
+      "id": 51203,
+      "name": "Tintswalo Atlantic South African Residents Winter Rate Voucher",
+      "description": "<p>Tintswalo Atlantic is a 5 star, award-winning boutique lodge nestled at the base of the ocean-facing Table Mountain National Park. Perfectly located on the&nbsp;water’s edge of the Atlantic Ocean, the boutique shoreline lodge enjoys the best of both ocean and mountainside views. Surrounded by nature, guests can indulge in the luxury and solitude of this magnificent seaside destination.</p> \n<p>*Travel Dates: 01 May 2022 to 31 August 2022<br /><br />Voucher includes: Accommodation, breakfast, cocktail of the day, Wi-Fi, welcome bottle of wine on arrival<br /><br />Voucher excludes Unspecified meals and beverages, transfers, excursions, mini bar, Conservation levy, all other unspecified items.</p> \n<p><br />*Charged per room per night, based on 2 people sharing</p>",
+      "hotelName": "Tintswalo Atlantic",
+      "price": 6100.0,
+      "displayDiscountedPrice": "<span class=normal-price>ZAR 6100.00</span>",
+      "discountedPrice": 6100.0,
+      "displayPrice": "6100.00",
+      "voucherImageUrl": "https://in1-image-library.imgix.net/11128/11128_362299d209_o.jpeg",
+      "voucherUrl": "https://shop.bookin1.com/property/tntvsa/vouchers/list/item/51203",
+      "currency": "ZAR",
+      "sequence": 1,
+      "voucherType": "package",
+      "inventory": 9993,
+      "categories": [],
+      "variants": []
+    },
+    {
+      "id": 51140,
+      "name": "Cash Voucher",
+      "description": "<p>Cash Gift Vouchers are always a welcome treat as they can be exchanged or used as part payment for <strong>accommodation</strong> (starting from R7100 per double room per night), <strong>dining</strong> for either stay over guests or Chefs Warehouse at Tintswalo Atlantic restaurant reservations (tapas menu starting from R850 per person), <strong>spa treatments </strong>(massages starting from R950 per person for a 60-minute treatment for stay over guests only) or <strong>curio shop purchases</strong>.&nbsp; Day visitors are only permitted at Chefs Warehouse at Tintswalo Atlantic.&nbsp; Validity periods apply, accommodation rates are seasonal.</p> \n<p>Tintswalo Atlantic is a 5 star, award-winning boutique lodge nestled at the base of the ocean-facing Table Mountain National Park on the&nbsp;water’s edge of the Atlantic Ocean.</p> \n<p>&nbsp;</p> \n<p><br /> <br /><br /></p>",
+      "hotelName": "Tintswalo Atlantic",
+      "price": 200.0,
+      "displayDiscountedPrice": "<span class=normal-price>ZAR 200.00</span>",
+      "discountedPrice": 200.0,
+      "displayPrice": "200.00",
+      "voucherImageUrl": "https://in1-image-library.imgix.net/11128/11128_fbyq06g830_o.jpeg",
+      "voucherUrl": "https://shop.bookin1.com/property/tntvsa/vouchers/list/item/51140",
+      "currency": "ZAR",
+      "sequence": 2,
+      "voucherType": "cash-wildcard",
+      "inventory": 9986,
+      "categories": [],
+      "variants": []
+    },
+    {
+      "id": 51178,
+      "name": "Tintswalo Lodges Cash Vouchers",
+      "description": "<p>Cash gift vouchers are always a welcome treat as they can be exchanged or used as part payment for accommodation at any of the Tintswalo properties.</p>",
+      "hotelName": "Tintswalo Atlantic",
+      "price": 200.0,
+      "displayDiscountedPrice": "<span class=normal-price>ZAR 200.00</span>",
+      "discountedPrice": 200.0,
+      "displayPrice": "200.00",
+      "voucherImageUrl": "https://in1-image-library.imgix.net/11128/11128_j1du1xo26j_o.jpeg",
+      "voucherUrl": "https://shop.bookin1.com/property/tntvsa/vouchers/list/item/51178",
+      "currency": "ZAR",
+      "sequence": 3,
+      "voucherType": "cash-wildcard",
+      "inventory": 9998,
+      "categories": [],
+      "variants": []
+    },
+    {
+      "id": 51196,
+      "name": "Tintswalo Atlantic Winter Package - 1 Night Stay",
+      "description": "<p>Indulge in the ultimate winter getaway with an unforgettable experience at Tintswalo Atlantic.&nbsp; Escape to luxurious seaside accommodation, spectacular sunset canapes and cocktails, exceptional dining at Chefs Warehouse, and tranquil spa treatments.</p> \n<p>Includes:</p> \n<ul> \n <li>Accommodation in a Luxury Island Suite for 2 people</li> \n <li>Sunset Canape's and cocktail of the day</li> \n <li>Chefs Warehouse Tapas Dinner</li> \n <li>Decadent Dessert to share</li> \n <li>Bottle of bubbly on arrival</li> \n <li>Delicious full breakfast</li> \n</ul> \n<p>&nbsp;Excludes:</p> \n<ul> \n <li>Unspecified meals</li> \n <li>Beverages and minibar</li> \n <li>Transfers</li> \n <li>Conservation levies</li> \n <li>Any unspecified items</li> \n</ul> \n<p>&nbsp;Minimum 2 night stay required over a weekend.&nbsp; Please note T’s and C’s apply.&nbsp; Specials are not combinable.&nbsp; This offer is available only to people living in South Africa.</p> \n<p>Travel Dates: 1 May 2022 to 31 August 2022</p>",
+      "hotelName": "Tintswalo Atlantic",
+      "price": 7600.0,
+      "displayDiscountedPrice": "<span class=normal-price>ZAR 7600.00</span>",
+      "discountedPrice": 7600.0,
+      "displayPrice": "7600.00",
+      "voucherImageUrl": "https://in1-image-library.imgix.net/11128/11128_wj218s3hid_o.jpeg",
+      "voucherUrl": "https://shop.bookin1.com/property/tntvsa/vouchers/list/item/51196",
+      "currency": "ZAR",
+      "sequence": 4,
+      "voucherType": "package",
+      "inventory": 9995,
+      "categories": [],
+      "variants": [
+        {
+          "id": 51196,
+          "name": "Tintswalo Atlantic Winter Package - 1 Night Stay",
+          "price": "7600.00",
+          "position": 4
+        },
+        {
+          "id": 51197,
+          "name": "Tintswalo Atlantic Winter Package - 2 Night Stay",
+          "price": "14900.00",
+          "position": 4
+        }
+      ]
+    }
+  ],
+  "categories": {},
+  "categoriesDetails": []
+}

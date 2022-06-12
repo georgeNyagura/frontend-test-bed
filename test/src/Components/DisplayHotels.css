@@ -1,0 +1,11 @@
+.inner{
+    position: absolute;
+    /* width: 300px; */
+}
+.outer{
+    position: relative;
+}
+.hotel-container{
+    align-items: center;
+    
+}
